@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spilt Milk</string>
+    <string name="no_connection">No internet connection detected</string>
+</resources>
